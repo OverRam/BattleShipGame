@@ -34,7 +34,7 @@ public class StarterBattleShipsGamePvP extends BattleShipsGame {
                 changePlayer();
             }
         }
-//        System.out.println("Player " + (player % 2 + 1) + " win!");
+        System.out.println("Player " + (player % 2 + 1) + " win!");
     }
 
     private void changePlayer() {
